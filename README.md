@@ -2,6 +2,10 @@
 
 包含前后台，技术栈：JDK8 + Vue2 + Uniapp + Mysql。感谢Star！
 
+Github地址：https://github.com/oldinaction/ChatGPT-MP
+
+Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
+
 小程序演示地址
 
 ![One能抽屉](https://cdn7.aezo.cn/common/qrcode/one_qrcode.jpg)
