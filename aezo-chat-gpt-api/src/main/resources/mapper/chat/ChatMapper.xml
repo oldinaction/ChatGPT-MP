@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.aezo.chat_gpt.modules.chat.mapper.ChatMapper">
+
+    <update id="updateUserAsset">
+        update mt_user_asset
+        <set>
+            asset = #{asset},
+            version = version + 1
+        </set>
+        where valid_status = 1 and user_id = #{userId}
+        and asset_type = #{assetType}
+        and version = #{version}
+    </update>
+
+    <insert id="insertUserAssetHis">
+        insert into mt_user_asset_his(id, user_id, biz_type, asset_type, asset,
+            remark, creator, create_time)
+        values(#{ctx.id}, #{ctx.userId}, #{ctx.bizType}, #{ctx.assetType}, #{ctx.asset},
+            #{ctx.remark}, #{ctx.userId}, now())
+    </insert>
+</mapper>

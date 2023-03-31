@@ -1,0 +1,4 @@
+/* 防止 uni.showToast 被遮盖 */
+uni-toast{
+	z-index: 999999;
+}

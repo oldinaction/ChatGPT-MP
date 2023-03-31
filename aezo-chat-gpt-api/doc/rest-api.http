@@ -1,0 +1,9 @@
+POST http://localhost:6500/api/tools/chat/sendMsg
+Content-Type: application/json
+
+{
+  "userId": "1",
+  "question": "你好"
+}
+
+###

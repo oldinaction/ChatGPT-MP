@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/aezo-chat-gpt?serverTimezone=Asia/Shanghai&useUnicode=true&useSSL=false&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&allowPublicKeyRetrieval=true
+    username: root
+    password: root
+
+sq-mini-tools:
+  openai:
+    enable: true
+
+logging:
+  file:
+    path: /tmp/logs/aezo-chat-gpt
+  level:
+    cn.aezo: DEBUG

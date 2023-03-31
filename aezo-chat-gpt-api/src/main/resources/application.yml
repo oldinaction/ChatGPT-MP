@@ -1,0 +1,84 @@
+server:
+  port: 6501
+  servlet:
+    context-path: /api
+spring:
+  profiles:
+    active: dev
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    druid:
+      validation-query: SELECT 1
+      web-stat-filter:
+        enabled: true
+      stat-view-servlet:
+        # http://localhost:8800/druid/ admin/admin
+        enabled: true
+        login-username: admin
+        login-password: admin
+  mvc:
+    static-path-pattern: /files/**
+  resources:
+    static-locations: file:/tmp/aezo-chat-gpt/data
+
+sq-app-common:
+  enc-pass-key: "aezo-chat-gpt"
+
+sq-mini-tools:
+  miniapp:
+    configs:
+      - sqAppCode: sq-mini-tools
+        # 填写你的小程序id和秘钥
+        appid: xxxxxxxxx
+        secret: xxxxxxxxx
+        token: # 微信小程序消息服务器配置的token
+        aesKey: # 微信小程序消息服务器配置的EncodingAESKey
+        msgDataFormat: JSON
+  openai:
+    enable: false
+    # 可换成自己的代理地址
+    api-host: https://api.openai.com/
+    # 填写自己的 OpenAI key
+    api-key: sk-xxxxxx
+  chat:
+    regist-num: 10
+    daily-free-num: 5
+    invite-num: 10
+    invite-max: 5
+    ads-num: 3
+    ads-max: 10
+
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/*.xml,classpath*:/mapper/**/*.xml
+  global-config:
+    db-config:
+      # 逻辑删除字段. IService#remove则是修改逻辑字段(原本为硬删除)，IService的方法则全部加valid_status=1，但是手写的Mapper则需要手动加此条件
+      logic-delete-field: valid_status
+      # 逻辑已删除值
+      logic-delete-value: 0
+      # 逻辑未删除值
+      logic-not-delete-value: 1
+
+logging:
+  config: classpath:logback-spring.xml
+
+############## Sa-Token 配置 (文档: https://sa-token.cc) ##############
+sa-token:
+  # token名称 (同时也是cookie名称)
+  token-name: SQ-ACCESS-TOKEN
+  # token有效期，单位s 默认12小时, -1代表永不过期
+  timeout: 43200
+  # token临时有效期 (指定时间内无操作就视为token过期) 单位: 秒
+  activity-timeout: 3600
+  # 是否允许同一账号并发登录 (为true时允许一起登录, 为false时新登录挤掉旧登录)
+  is-concurrent: true
+  # 在多人登录同一账号时，是否共用一个token (为true时所有登录共用一个token, 为false时每次登录新建一个token)
+  is-share: true
+  # token风格
+  token-style: uuid
+  # 是否输出操作日志
+  is-log: false
