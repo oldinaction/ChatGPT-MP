@@ -8,7 +8,7 @@
 
 |  聊天   | 用户信息   | 聊天历史   |
 | ---    | ----- |----- |
-| <img src="images/IMG_0218.PNG" width="117" height="253"/>  | <img src="images/IMG_0196.PNG" width="117" height="253"/> | <img src="images/IMG_0197.PNG" width="117" height="253" /> |
+| <img src="images/IMG_0218.PNG" width="175" height="379"/>  | <img src="images/IMG_0196.PNG" width="175" height="379"/> | <img src="images/IMG_0197.PNG" width="175" height="379"/> |
 
 ## 包含功能
 
