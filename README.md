@@ -1,6 +1,6 @@
 ## ChatGPT-MP(基于ChatGPT实现的微信小程序)
 
-包含前后台，技术栈：JDK8 + Vue2 + Uniapp + Mysql。感谢Star！
+包含前后台，技术栈：JDK8 + Vue2 + Uniapp + Mysql。仅供学习交流，感谢Star！
 
 Github地址：https://github.com/oldinaction/ChatGPT-MP
 
@@ -49,11 +49,11 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 有问题可进群交流，为了防止各种广告，需小额打赏1元以上~(你的心意就是我最大的动力)
 
-<img src="https://raw.githubusercontent.com/oldinaction/static/main/wechat-1.jpg" width="210" height="280" alt="二维码">
+<img src="images/wechat-1.jpg" width="210" height="280" alt="二维码">
 
 微信群主要是提供大家一个交流的环境，更多最新资源我会分享到我的知识星球，也欢迎大家加入。现在是试运营阶段，优惠门票有限，先到先得！
 
-<img src="https://raw.githubusercontent.com/oldinaction/static/main/zxxq-chatgpt.jpg" width="410" height="240" alt="二维码">
+<img src="images/zxxq-chatgpt.jpg" width="410" height="230" alt="二维码">
 
 ## 鸣谢
 
