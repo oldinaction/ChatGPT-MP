@@ -1,6 +1,6 @@
 ## ChatGPT-MP(基于ChatGPT实现的微信小程序)
 
-包含前后台，技术栈：JDK8 + Vue2 + Uniapp + Mysql。**禁止商用及倒卖，仅供学习交流。**感谢Star！
+包含前后台，技术栈：JDK8 + Vue2 + Uniapp + Mysql。**禁止商用及倒卖，仅供学习交流。** 感谢Star！
 
 Github地址：https://github.com/oldinaction/ChatGPT-MP
 
@@ -10,9 +10,11 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 ![One能抽屉](https://cdn7.aezo.cn/common/qrcode/one_qrcode.jpg)
 
-<img src="images/IMG_0218.PNG" width="210" height="454"/>
-<img src="images/IMG_0196.PNG" width="210" height="454"/>
-<img src="images/IMG_0197.PNG" width="210" height="454"/>
+<div align=left>
+    <img src="images/IMG_0218.PNG" width="210" height="454"/>
+    <img src="images/IMG_0196.PNG" width="210" height="454"/>
+    <img src="images/IMG_0197.PNG" width="210" height="454"/>
+</div>
 
 ## 包含功能
 
