@@ -1,6 +1,6 @@
 ## ChatGPT-MP(基于ChatGPT实现的微信小程序)
 
-包含前后台，技术栈：JDK8 + Vue2 + Uniapp + Mysql。仅供学习交流，感谢Star！
+包含前后台，技术栈：JDK8 + Vue2 + Uniapp + Mysql。**禁止商用及倒卖，仅供学习交流。**感谢Star！
 
 Github地址：https://github.com/oldinaction/ChatGPT-MP
 
@@ -10,9 +10,9 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 ![One能抽屉](https://cdn7.aezo.cn/common/qrcode/one_qrcode.jpg)
 
-|  聊天   | 用户信息   | 聊天历史   |
-| ---    | ----- |----- |
-| <img src="images/IMG_0218.PNG" width="210" height="454"/>  | <img src="images/IMG_0196.PNG" width="210" height="454"/> | <img src="images/IMG_0197.PNG" width="210" height="454"/> |
+<img src="images/IMG_0218.PNG" width="210" height="454"/>
+<img src="images/IMG_0196.PNG" width="210" height="454"/>
+<img src="images/IMG_0197.PNG" width="210" height="454"/>
 
 ## 包含功能
 
@@ -28,7 +28,7 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 - [x] 联系客服领取次数
 - [x] 看广告得次数
 - [x] 后台管理系统，暂时为收费版功能，之后会择机开源
-- [] AI生成图片、语音转换等功能开发中......
+- [ ] AI生成图片、语音转换等功能开发中......
 
 ## 部署
 
@@ -49,11 +49,11 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 1、有问题可进群交流，为了防止各种广告，需小额打赏1元以上~(你的心意就是我最大的动力)
 
-<img src="images/wechat-1.jpg" width="210" height="280" alt="二维码">
+<img src="images/wechat-1.jpg" width="210" height="280" alt="微信：moonstarwall">
 
 2、微信群主要是提供大家一个交流的环境，更多最新资源我会分享到我的知识星球，也欢迎大家加入。现在是试运营阶段，优惠门票有限，先到先得！
 
-<img src="images/zxxq-chatgpt.jpg" width="410" height="230" alt="二维码">
+<img src="images/zxxq-chatgpt.jpg" width="410" height="230" alt="星球号：16541088">
 
 ## 鸣谢
 
