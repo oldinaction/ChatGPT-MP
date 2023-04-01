@@ -49,7 +49,7 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 ## 交流学习
 
-1、有问题可进群交流，为了防止各种广告，需小额打赏1元以上~(你的心意就是我最大的动力)
+1、有问题可进群交流，为了防止各种广告，需小额打赏1元以上~(你的心意就是我最大的动力)，添加请注明来意！
 
 <img src="images/wechat-1.jpg" width="210" height="280" alt="微信：moonstarwall">
 
