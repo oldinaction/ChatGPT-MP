@@ -51,7 +51,10 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 1、有问题可进群交流，为了防止各种广告，需小额打赏1元以上~(你的心意就是我最大的动力)，添加请注明来意！
 
-<img src="images/wechat-1.jpg" width="210" height="280" alt="微信：moonstarwall">
+<details>
+    <summary>点击查看（需小额打赏）</summary>
+    <img src="images/wechat-1.jpg" width="210" height="280" alt="微信：moonstarwall">
+</details>
 
 2、微信群主要是提供大家一个交流的环境，更多最新资源我会分享到我的知识星球，也欢迎大家加入。现在是试运营阶段，优惠门票有限，先到先得！
 
