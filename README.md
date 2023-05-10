@@ -1,6 +1,6 @@
 ## ChatGPT-MP(基于ChatGPT实现的微信小程序)
 
-包含前后台，技术栈：JDK8 + Vue2 + Uniapp + Mysql。**禁止商用及倒卖，仅供学习交流。** 感谢Star！
+包含前后台，技术栈：JDK8 + SpringBoot + Vue2 + Uniapp + Mysql。**禁止商用及倒卖，仅供学习交流。** 感谢Star！
 
 Github地址：https://github.com/oldinaction/ChatGPT-MP
 
