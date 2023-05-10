@@ -10,11 +10,6 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 ![One能抽屉](https://cdn7.aezo.cn/common/qrcode/one_qrcode.jpg)
 
-<div align=left>
-    <img src="images/IMG_0218.PNG" width="210" height="454"/>
-    <img src="images/IMG_0196.PNG" width="210" height="454"/>
-    <img src="images/IMG_0197.PNG" width="210" height="454"/>
-</div>
 
 ## 包含功能
 
@@ -32,7 +27,25 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 - [x] 后台管理系统，暂时为收费版功能，之后会择机开源
 - [ ] AI生成图片、语音转换等功能开发中......
 
-## 部署
+## 小程序样式预览
+
+<div align=left>
+    <img src="images/MP-我的菜单.PNG" width="210" height="454"/>
+    <img src="images/MP-聊天.PNG" width="210" height="454"/>
+    <img src="images/MP-聊天历史.PNG" width="210" height="454"/>
+</div>
+
+## 后端管理样式预览
+
+<img src="images/用户管理.png"/>
+
+<img src="images/用户次数管理.png"/>
+
+<img src="images/铭感词管理.png"/>
+
+<img src="images/数据统计.png"/>
+
+## 开源版部署
 
 ### 后端
 
@@ -47,18 +60,40 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 - 修改common/config.js中的API地址
 - 运行项目到微信小程序
 
+## 版本功能比对
+
+[收费版授权地址](https://ekey.aezo.cn/buy/1)
+
+| 功能 | 开源版 | 收费版 |
+|--|--|--|
+| ChatGPT聊天 | ✅ | ✅ |
+| 用户聊天次数限制 | ✅ | ✅ |
+|  分享得聊天次数 | ✅ | ✅ |
+| 每日领取免费次数 | ✅ | ✅ |
+| 查看聊天历史 | ✅ | ✅ |
+| 显示连接情况 | ✅ | ✅ |
+| 清除聊天历史 | ✅ | ✅ |
+| 开通会员 | ✅ | ✅ |
+| 购买次数包 | ✅ | ✅ |
+| 联系客服领取次数 | ✅ | ✅ |
+| 看广告得次数 | ✅ | ✅ |
+| 敏感词过滤 | ❌ | ✅ |
+| 后台管理-用户次数管理 | ❌ | ✅ |
+| 后台管理-用户次数扣除历史 | ❌ | ✅ |
+| 后台管理-敏感词管理 | ❌ | ✅ |
+| 后台管理-发送消息统计 | ❌| ✅ |
+| 后台管理-邀请人数统计 | ❌ | ✅ |
+| 详细部署及使用文档 | ❌ | ✅ |
+| 售后服务 | ❌ | 交流学习群 |
+
 ## 交流学习
 
-1、有问题可进群交流，为了防止各种广告，需小额打赏1元以上~(你的心意就是我最大的动力)，添加请注明来意！
+有问题可进群交流，为了防止各种广告，需小额打赏1元以上~(你的心意就是我最大的动力)，添加请注明来意！
 
 <details>
-    <summary>点击查看（需小额打赏）</summary>
+    <summary>点击查看联系方式（需小额打赏，添加注明OneChat）</summary>
     <img src="images/wechat-1.jpg" width="210" height="280" alt="微信：moonstarwall">
 </details>
-
-2、微信群主要是提供大家一个交流的环境，更多最新资源我会分享到我的知识星球，也欢迎大家加入。现在是试运营阶段，优惠门票有限，先到先得！
-
-<img src="images/zxxq-chatgpt.jpg" width="410" height="230" alt="星球号：16541088">
 
 ## 鸣谢
 
