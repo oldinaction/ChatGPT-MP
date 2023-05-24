@@ -1,6 +1,8 @@
-## ChatGPT-MP(基于ChatGPT实现的微信小程序)
+## ChatGPT-MP(基于ChatGPT实现的微信小程序，适配H5和WEB端)
 
-包含前后台，技术栈：JDK8 + SpringBoot + Vue2 + Uniapp + Mysql。**开源版禁止商用，仅供学习交流，禁止倒卖。** 感谢Star！
+包含前后台，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。**开源版禁止商用，仅供学习交流，禁止倒卖。** 感谢Star！
+
+技术栈：JDK8 + SpringBoot + Vue2 + Uniapp + Mysql
 
 Github地址：https://github.com/oldinaction/ChatGPT-MP
 
@@ -27,12 +29,20 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 - [x] 后台管理系统，暂时为收费版功能，之后会择机开源
 - [ ] AI生成图片、语音转换等功能开发中......
 
-## 小程序样式预览
+## 小程序/H5样式预览
+
+小程序样式
 
 <div align=left>
     <img src="images/MP-我的菜单.PNG" width="210" height="454"/>
     <img src="images/MP-聊天.PNG" width="210" height="454"/>
     <img src="images/MP-聊天历史.PNG" width="210" height="454"/>
+</div>
+
+H5登录注册界面，其他聊天界面类似小程序样式
+
+<div align=left>
+    <img src="images/H5-登录注册.PNG" width="210" height="454"/>
 </div>
 
 ## 后端管理样式预览
@@ -62,9 +72,7 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 ## 版本功能比对
 
-[收费版授权地址](https://ekey.aezo.cn/buy/1)
-
-| 功能 | 开源版 | 收费版 |
+| 功能 | 开源版 | 升级版 |
 |--|--|--|
 | ChatGPT聊天 | ✅ | ✅ |
 | 用户聊天次数限制 | ✅ | ✅ |
@@ -77,14 +85,18 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 | 购买次数包 | ✅ | ✅ |
 | 联系客服领取次数 | ✅ | ✅ |
 | 看广告得次数 | ✅ | ✅ |
+| H5/WEB端适配 | ❌ | ✅ |
 | 敏感词过滤 | ❌ | ✅ |
 | 后台管理-用户次数管理 | ❌ | ✅ |
 | 后台管理-用户次数扣除历史 | ❌ | ✅ |
 | 后台管理-敏感词管理 | ❌ | ✅ |
 | 后台管理-发送消息统计 | ❌| ✅ |
 | 后台管理-邀请人数统计 | ❌ | ✅ |
+| 登录注册方式 | 小程序登录 | 小程序登录/微信公众号登录/手机号注册登录/邮箱注册登录 |
 | 详细部署及使用文档 | ❌ | ✅ |
 | 售后服务 | ❌ | 交流学习群 |
+
+[升级版授权地址](https://ekey.aezo.cn/buy/1)
 
 ## 交流学习
 
