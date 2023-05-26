@@ -76,8 +76,8 @@ H5登录注册界面，其他聊天界面类似小程序样式
 Jar包启动方式如下：
 
 1. 安装JDK(略)，网上教程较多
-2. 进入到项目 aezo-chat-gpt-api/dist 目录
-3. 修改此目录中的 application-dev.yml 文件(记事本文本编辑器即可打开，配置项已备注清除)
+2. 下载dist.zip压缩包后进行解压
+3. 修改此目录中的 application-dev.yml 文件(记事本文本编辑器即可打开，配置项已备注清楚)
 4. 启动：Windows执行`start.bat`文件，Linux执行`start.sh`文件
 
 ### 前端小程序
