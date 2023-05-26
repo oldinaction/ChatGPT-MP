@@ -99,7 +99,7 @@
         </dependency>
     </dependencies>
 
-    <!--<build>
+    <build>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -114,9 +114,9 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>-->
+    </build>
 
-    <build>
+    <!--<build>
         <finalName>aezo-chat-gpt-api</finalName>
         <plugins>
             <plugin>
@@ -137,5 +137,5 @@
                 </executions>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
 </project>

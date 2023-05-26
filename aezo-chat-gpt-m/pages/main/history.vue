@@ -13,16 +13,12 @@
 							<text>{{ x.msg }}</text>
 						</view>
 					</view>
-					<view class="cu-avatar round"
-						style="background-image:url('https://cdn7.aezo.cn/one/mt/img/icon/logo-100.png');">
-					</view>
+					<image class="cu-avatar round" src="/static/logo-100.png">
 					<view v-if="i === 0" class="date">{{ x.date }}</view>
 				</view>
 				<!-- AI消息 -->
 				<view v-if="!x.my && x.type === 'msg'" class="cu-item" :class="[i === 0 ? 'first' : '', i === 1 ? 'sec' : '']">
-					<view class="cu-avatar round"
-						style="background-image:url('https://cdn7.aezo.cn/one/mt/img/icon/robot.png');">
-					</view>
+					<image class="cu-avatar round chat-avatar" src="/static/robot.png">
 					<view class="main">
 						<view class="content shadow" @click="x.msg && $squni.copy(x.msg)">
 							<text>{{ x.msg }}</text>
