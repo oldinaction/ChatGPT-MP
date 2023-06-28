@@ -51,10 +51,12 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
     <img src="images/MP-提示词使用.PNG" width="210" height="454"/>
 </div>
 
-H5登录注册界面，其他聊天界面类似小程序样式
+登录注册界面等样式
 
 <div align=left>
     <img src="images/H5-登录注册.PNG" width="210" height="454"/>
+	<img src="images/H5-开通会员.PNG" width="210" height="454"/>
+	<img src="images/H5-支付.PNG" width="210" height="454"/>
 </div>
 
 ## 后端管理样式预览
@@ -101,7 +103,7 @@ Jar包启动方式如下：
 |--|--|--|
 | ChatGPT聊天 | ✅ | ✅ |
 | 用户聊天次数限制 | ✅ | ✅ |
-|  分享得聊天次数 | ✅ | ✅ |
+| 分享得聊天次数 | ✅ | ✅ |
 | 每日领取免费次数 | ✅ | ✅ |
 | 查看聊天历史 | ✅ | ✅ |
 | 显示连接情况 | ✅ | ✅ |
@@ -118,7 +120,7 @@ Jar包启动方式如下：
 | 详细部署及使用文档 | ❌ | ✅ |
 | 售后服务 | ❌ | 交流学习群 |
 
-[升级版授权地址](https://ekey.aezo.cn/buy/1)
+[升级版授权地址](https://ekey.oneneng.top/buy/1)
 
 ## 交流学习
 
