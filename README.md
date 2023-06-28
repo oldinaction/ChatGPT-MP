@@ -120,7 +120,7 @@ Jar包启动方式如下：
 | 详细部署及使用文档 | ❌ | ✅ |
 | 售后服务 | ❌ | 交流学习群 |
 
-[升级版授权地址](https://ekey.oneneng.top/buy/1)
+[需要升级版，戳这里](https://ekey.oneneng.top/buy/1)
 
 ## 交流学习
 
