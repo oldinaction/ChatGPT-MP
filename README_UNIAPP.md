@@ -1,10 +1,6 @@
-## ChatGPT-MP(基于ChatGPT实现的微信小程序)
+## ChatGPT-MP(基于ChatGPT实现的微信小程序，适配H5/WEB端)
 
-包含前后台(后端请参考下文github地址)，技术栈：JDK8 + SpringBoot + Vue2 + Uniapp + Mysql。**禁止商用及倒卖，仅供学习交流。** 感谢Star！
-
-**Github地址**：[https://github.com/oldinaction/ChatGPT-MP](https://github.com/oldinaction/ChatGPT-MP)
-
-Gitee地址(国内访问更快)：[https://gitee.com/smalle/ChatGPT-MP](https://gitee.com/smalle/ChatGPT-MP)
+包含前后台，技术栈：JDK8 + SpringBoot + Vue2 + Uniapp + Mysql
 
 小程序演示地址
 
@@ -13,20 +9,23 @@ Gitee地址(国内访问更快)：[https://gitee.com/smalle/ChatGPT-MP](https://
 ## 包含功能
 
 - [x] ChatGPT聊天
+- [x] 提示词功能(角色扮演)
 - [x] 用户聊天次数限制
 - [x] 分享得聊天次数
 - [x] 每日领取免费次数
-- [x] 查看聊天历史
-- [x] 显示连接情况
-- [x] 清除聊天历史
-- [x] 开通会员
-- [x] 购买次数包
-- [x] 联系客服领取次数
 - [x] 看广告得次数
-- [x] 后台管理系统，暂时为收费版功能，之后会择机开源
+- [x] 开通会员，购买次数包
+- [x] 在线支付
+- [x] 敏感词校验
+- [x] 小程序/微信公众号/手机号/邮箱注册登录
+- [x] 聊天历史查看
+- [x] 后台管理系统
+- [x] 详细部署及使用文档，交流学习群
 - [ ] AI生成图片、语音转换等功能开发中......
 
 ## 部署
+
+- 详细文档参考源码中文档
 
 ### 后端
 
@@ -41,6 +40,3 @@ Gitee地址(国内访问更快)：[https://gitee.com/smalle/ChatGPT-MP](https://
 - 修改common/config.js中的API地址
 - 运行项目到微信小程序
 
-## 交流学习
-
-- 参考 [https://github.com/oldinaction/ChatGPT-MP](https://github.com/oldinaction/ChatGPT-MP)

@@ -153,6 +153,21 @@ Jar包启动方式如下：
     <img src="images/案例-写作助手2.PNG" width="210" height="454"/>
 </div>
 
+## 案例-旅游智能导览机器人
+
+旅游智能导览机器人
+
+<div align=left>
+    <img src="images/案例-旅游智能导览1.jpg" width="210" height="454"/>
+    <img src="images/案例-旅游智能导览2.jpg" width="210" height="454"/>
+    <img src="images/案例-旅游智能导览3.jpg" width="210" height="454"/>
+</div>
+
+<div align=left>
+    <img src="images/案例-旅游智能导览4.jpg" width="210" height="454"/>
+    <img src="images/案例-旅游智能导览5.jpg" width="210" height="454"/>
+</div>
+
 ## 鸣谢
 
 - 基于ChatGPT Java客户端[chatgpt-java](https://github.com/Grt1228/chatgpt-java)实现接口调用
