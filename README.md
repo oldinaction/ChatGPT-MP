@@ -15,6 +15,7 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 ## One能聊天开源版接入其他大模型教程专辑
 
 - [【One能聊天】开发指南](https://mbd.pub/o/bread/ZZ6blZ9x) 🔥🔥🔥
+- [One能聊天接入DeepSeek(基于阿里云)](https://mbd.pub/o/bread/mbd-Z56ck5Zs) 🔥
 - [One能聊天接入百度千帆大模型 — 文心一言](https://mbd.pub/o/bread/mbd-ZZ6blZ9s)
 - [One能聊天接入百度千帆AppBuilder](https://mbd.pub/o/bread/mbd-ZZ6blpZq)
 - [One能聊天接入阿里通义千问](https://mbd.pub/o/bread/mbd-ZZ6blpZs)
