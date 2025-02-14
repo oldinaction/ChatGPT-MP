@@ -1,6 +1,6 @@
 ## ChatGPT-MP(基于ChatGPT实现的微信小程序，适配H5和WEB端)
 
-包含前后台，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。**开源版禁止商用，仅供学习交流，禁止倒卖。** 感谢Star！
+包含前后台，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能，支持DeepSeek/ChatGPT等模型。**开源版禁止商用，仅供学习交流，禁止倒卖。** 感谢Star！
 
 技术栈：JDK8 + SpringBoot + Vue2 + Uniapp + Mysql
 
@@ -21,6 +21,7 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 ## 包含功能
 
+- [x] 支持DeepSeek 🔥🔥🔥
 - [x] ChatGPT聊天
 - [x] 百度文心大模型/百度千帆AppBuilder
 - [x] 阿里通义千问
@@ -109,6 +110,7 @@ Jar包启动方式如下：
 
 | 功能 | 开源版 | 专业版 | 说明 |
 |--|--|--|--|
+| 🔥 DeepSeek模型 | ✅ | ✅ |支持DeepSeek-R1/DeepSeek-V3等|
 | 🔥 ChatGPT聊天 | ✅ | ✅ |支持GPT3.5/GPT4.0|
 | 🔥 百度文心大模型 | ❌ | ✅ ||
 | 🔥 百度千帆AppBuilder | ❌ | ✅ ||
