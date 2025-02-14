@@ -1,6 +1,6 @@
-## ChatGPT-MP(基于ChatGPT实现的微信小程序，适配H5和WEB端)
+## ChatGPT-MP(基于DeepSeek/ChatGPT等模型实现的微信小程序，适配H5和WEB端)
 
-包含前后台，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能，支持DeepSeek/ChatGPT等模型。**开源版禁止商用，仅供学习交流，禁止倒卖。** 感谢Star！
+包含前后台，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。**开源版禁止商用，仅供学习交流，禁止倒卖。** 感谢Star！
 
 技术栈：JDK8 + SpringBoot + Vue2 + Uniapp + Mysql
 
