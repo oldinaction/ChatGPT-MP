@@ -110,7 +110,7 @@ Jar包启动方式如下：
 
 | 功能 | 开源版 | 专业版 | 说明 |
 |--|--|--|--|
-| 🔥 DeepSeek模型 | ✅ | ✅ |支持DeepSeek-R1/DeepSeek-V3等|
+| 🔥 DeepSeek模型 | ❌ | ✅ |支持DeepSeek-R1/DeepSeek-V3等|
 | 🔥 ChatGPT聊天 | ✅ | ✅ |支持GPT3.5/GPT4.0|
 | 🔥 百度文心大模型 | ❌ | ✅ ||
 | 🔥 百度千帆AppBuilder | ❌ | ✅ ||
