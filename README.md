@@ -22,7 +22,7 @@ Gitee地址(国内访问更快)：https://gitee.com/smalle/ChatGPT-MP
 
 ## 包含功能
 
-- [x] 支持DeepSeek 🔥🔥🔥
+- [x] 支持DeepSeek（基于阿里云） 🔥🔥🔥
 - [x] ChatGPT聊天
 - [x] 百度文心大模型/百度千帆AppBuilder
 - [x] 阿里通义千问
@@ -111,7 +111,7 @@ Jar包启动方式如下：
 
 | 功能 | 开源版 | 专业版 | 说明 |
 |--|--|--|--|
-| 🔥 DeepSeek模型 | ❌ | ✅ |支持DeepSeek-R1/DeepSeek-V3等|
+| 🔥 DeepSeek模型 | ❌ | ✅ |基于阿里云，支持DeepSeek-R1/DeepSeek-V3等|
 | 🔥 ChatGPT聊天 | ✅ | ✅ |支持GPT3.5/GPT4.0|
 | 🔥 百度文心大模型 | ❌ | ✅ ||
 | 🔥 百度千帆AppBuilder | ❌ | ✅ ||
